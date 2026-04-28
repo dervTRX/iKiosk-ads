@@ -1,13 +1,12 @@
 [
   {
-    "title": "Ad 1",
-    "videoUrl": "https://....mp4",
-    "images": ["img1.jpg", "img2.jpg"],
-    "imageDuration": 5000,
-    "postDuration": 20000
+    "id": 1,
+    "title": "TESDA X Regional Director, Dir. Rafael Y. Abrogar II, as Special Guest in Radyo Pilipinas Cagayan de Oro Live Broadcast",
+    "description": "TESDA X Regional Director, Dir. Rafael Y. Abrogar II, graced the live broadcast of Radyo Pilipinas Cagayan de Oro on April 28, 2026, as a special guest to discuss the latest updates and initiatives of TESDA in the region.",
+    "video": "https://nvblmouudxdspjflsmgm.supabase.co/storage/v1/object/sign/some_vid/fb%20live%20(1).mp4?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81ZTIzYTI2Ni1lNjUxLTQzNDAtYmFmMS1iMWE1YmRkZjVkMjkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJzb21lX3ZpZC9mYiBsaXZlICgxKS5tcDQiLCJpYXQiOjE3NzczNTQ2MjcsImV4cCI6MTc3Nzk1OTQyN30.1-WE0umFSogrb6XReRYz0MGff6-l9KKPdIqiOTIII2I"
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "334 Driving NC II Scholars Receive Starter Toolkits Under STEP-2025",
     "description": "The distribution of starter toolkits for Driving NC II under STEP-2025 of MAQS Training Center Foundation Inc., led by PD Norayah A. Acas, marks a significant milestone in strengthening technical-vocational education and training. A total of 334 scholars were provided with essential toolkits to support their hands-on learning, ensuring that competencies in driving are developed not only through classroom instruction but also through practical application. This initiative enhances trainees' confidence, discipline, and technical skills as they prepare for real-world driving responsibilities. This activity strongly aligns with the mandate of TESDA in promoting accessible, quality, and industry-responsive training programs for Filipinos. Through this initiative, TESDA continues to empower learners by providing resources that improve training outcomes and increase employability. The provision of starter toolkits to 334 scholars under Driving NC II reflects TESDA's commitment to bridging skills gaps, producing competent workforce graduates, and creating sustainable livelihood opportunities that contribute to local and national development.",
     "images": [
@@ -19,7 +18,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "TESDA Region X Awards CTPR to Toyota CDO for Automotive Servicing Training Program",
     "description": "TESDA Region X confers the Certificate of TVET Program Registration (CTPR) under the Enterprise-based Education and Training (EBET) program to Toyota Cagayan de Oro Inc., a premier automotive dealership in Northern Mindanao, for its registered qualification in Automotive Servicing. This milestone serves as a gateway to tap emerging technologies, particularly in the field of sustainable and energy-efficient mobility, strengthening the alignment of technical education and industry innovation. Amid growing energy challenges, TESDA Region X remains optimistic, anchored on the belief that by equipping learners with relevant and future-ready skills, we can advance industries and help build a more resilient, innovative, and sustainable future. TESDA Region X extends its warmest gratitude and appreciation to Toyota Cagayan de Oro for its steadfast commitment to workforce development, skills advancement, and shared vision of industry excellence.",
     "images": [
@@ -27,7 +26,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "TESDA, MSU-IIT, and BJMP Strengthen Collaboration for PDL Rehabilitation Through WE CARE Program",
     "description": "April 14, 2026 - A coordination meeting was conducted between Provincial Director Norayah A. Acas, Chancellor Alizedney M. Ditucalan of Mindanao State University–Iligan Institute of Technology, and Professor Roque Requino with representatives from the Bureau of Jail Management and Penology, to discuss the implementation of the WE CARE Program of MSU IIT for Persons Deprived of Liberty (PDLs) incarcerated in Brgy. Tipanoy, Iligan City. The discussion highlighted the WE CARE Program as a holistic initiative focusing on wellness, education, capability building, environmental awareness, alternative livelihood, and entrepreneurship, aimed at supporting the rehabilitation and reintegration of PDLs. Chancellor Ditucalan emphasized the university's commitment to inclusive community extension services, particularly for marginalized sectors such as PDLs. In support of the initiative, TESDA Lanao del Norte, through PD Acas, expressed its commitment to align its programs by providing technical-vocational education and training through the scholarship programs and competency assessment and certification for PDLs. These interventions aim to equip PDLs with industry-relevant skills and other livelihood opportunities that can enhance their employability upon release. Meanwhile, the Bureau of Jail Management and Penology assured its support in facilitating the implementation of the programs within the facility. The meeting concluded with a shared commitment among the agencies to strengthen collaboration and initiate program implementation, contributing to the empowerment and successful reintegration of PDLs into society.",
     "images": [
@@ -38,7 +37,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "TESDA Lanao del Norte Explores EBET Partnership with WASH & GO Auto Salon",
     "description": "Strengthening industry linkages in the automotive sector, TESDA Lanao del Norte Provincial Director PD Norayah A. Acas conducted a visit to WASH & GO Auto Salon in Lala, Lanao del Norte as part of its continuous efforts to expand opportunities under the Enterprise-Based Education and Training (EBET) Program. The activity aims to explore the potential registration of the establishment as an EBET partner, aligning with the directives of TESDA Secretary Jose Francisco Benitez to further enhance industry-driven training and promote greater workforce employability. Through this initiative, TESDA reinforces its commitment to bringing technical vocational education and training closer to industries, ensuring that programs remain responsive, relevant, and attuned to the needs of the labor market.",
     "images": [
