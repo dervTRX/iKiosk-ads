@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ad 1",
+    "videoUrl": "https://....mp4",
+    "images": ["img1.jpg", "img2.jpg"],
+    "imageDuration": 5000,
+    "postDuration": 20000
+  },
+  {
     "id": 1,
     "title": "334 Driving NC II Scholars Receive Starter Toolkits Under STEP-2025",
     "description": "The distribution of starter toolkits for Driving NC II under STEP-2025 of MAQS Training Center Foundation Inc., led by PD Norayah A. Acas, marks a significant milestone in strengthening technical-vocational education and training. A total of 334 scholars were provided with essential toolkits to support their hands-on learning, ensuring that competencies in driving are developed not only through classroom instruction but also through practical application. This initiative enhances trainees' confidence, discipline, and technical skills as they prepare for real-world driving responsibilities. This activity strongly aligns with the mandate of TESDA in promoting accessible, quality, and industry-responsive training programs for Filipinos. Through this initiative, TESDA continues to empower learners by providing resources that improve training outcomes and increase employability. The provision of starter toolkits to 334 scholars under Driving NC II reflects TESDA's commitment to bridging skills gaps, producing competent workforce graduates, and creating sustainable livelihood opportunities that contribute to local and national development.",
